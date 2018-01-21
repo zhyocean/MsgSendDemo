@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: aliyun-java-sdk-dysmsapi:aliyun-java-sdk-dysmsapi:1.0.0-SANPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi/1.0.0-SANPSHOT/aliyun-java-sdk-dysmsapi-1.0.0-SANPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi/1.0.0-SANPSHOT/aliyun-java-sdk-dysmsapi-1.0.0-SANPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/aliyun-java-sdk-dysmsapi/aliyun-java-sdk-dysmsapi/1.0.0-SANPSHOT/aliyun-java-sdk-dysmsapi-1.0.0-SANPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
